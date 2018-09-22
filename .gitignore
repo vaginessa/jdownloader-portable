@@ -3,6 +3,6 @@ App/JDownloader/JD2.lock
 App/JDownloader/JD2.port
 App/JDownloader/JDownloader.pid
 App/JDownloader/logs/
-App/JDownloader/tmp/
-App/JDownloader/update/
+App/JDownloader/tmp/hosterCache
+App/JDownloader/tmp/jna/
 Data/
