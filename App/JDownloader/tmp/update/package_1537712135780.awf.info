@@ -1,0 +1,11 @@
+{
+  "appID" : "JD",
+  "jarMerge" : true,
+  "destRevision" : 12262,
+  "sourceRevision" : 12261,
+  "timestamp" : 1537712135782,
+  "installExtensions" : [ ],
+  "uninstallExtensions" : [ ],
+  "file" : "package_1537712135780.awf",
+  "installedExtensions" : [ ]
+}
