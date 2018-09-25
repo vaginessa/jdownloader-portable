@@ -56,7 +56,7 @@ start "" JDownloaderPortable.exe
 :: Wait for updates to finish
 echo.
 echo Waiting for updates to finish downloading...
-ping 127.0.0.1 -n 121 >nul
+ping 127.0.0.1 -n 61 >nul
 
 :: Stop the process
 :: The $_.Path variable is probably null so we use $_.MainWindowTitle to
@@ -72,7 +72,7 @@ ping 127.0.0.1 -n 61 >nul
 
 :: What version is JDownloader now
 echo.
-echo Reading JDownloader version...
+echo Re-reading JDownloader version...
 set /p version=<App\JDownloader\update\versioninfo\JD\rev
 echo Previous version: %oldversion%
 echo New version: %version%
