@@ -5,4 +5,5 @@ App/JDownloader/JDownloader.pid
 App/JDownloader/logs/
 App/JDownloader/tmp/hosterCache
 App/JDownloader/tmp/jna/
+App/JDownloader/tmp/update/
 Data/
