@@ -4,6 +4,8 @@ App/JDownloader/JD2.port
 App/JDownloader/JDownloader.pid
 App/JDownloader/logs/
 App/JDownloader/tmp/hosterCache
+App/JDownloader/tmp/invalidextensions
+App/JDownloader/tmp/invalidplugins
 App/JDownloader/tmp/jna/
 App/JDownloader/tmp/update/
 Data/
