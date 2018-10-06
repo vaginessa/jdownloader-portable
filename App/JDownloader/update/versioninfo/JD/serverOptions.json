@@ -6,6 +6,7 @@
  "libs/hsqldb.jar"                                        : "{\r\n\"parentIDList\":[\"olddatabase\"]\r\n}",
  "translations/org/jdownloader/extensions/antistandby"    : "{\r\n\"linux\":\"FALSE\"\r\n\r\n} ",
  "libs/laf/substance-swingx.jar"                          : "{\r\n\"parentIDList\":[\"substance\"]\r\n\r\n}",
+ "tools/mac/ffmpeg_10.10+"                                : "{\r\n\r\n\"parentIDList\":[\"ffmpeg_10.10+\"]\r\n}",
  "libs/laf/syntheticaOrangeMetallic.jar"                  : "{\r\n\"parentIDList\":[\"synthetica-themes\"]\r\n}",
  "libs/sqljet.jar"                                        : "{\r\n\"parentIDList\":[\"translator\"]\r\n}",
  "tools/Windows/ffmpeg"                                   : "{\r\n\r\n\"parentIDList\":[\"ffmpeg\"]\r\n}",
