@@ -46,16 +46,7 @@ echo Applying settings...
 mkdir App\JDownloader\cfg >nul
 ping 127.0.0.1 -n 2 >nul
 echo {>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "freshinstall" : false,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "onminimizeaction" : "TO_TASKBAR",>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "tooltipenabled" : true,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "oncloseaction" : "EXIT",>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "tooglewindowstatuswithsingleclickenabled" : false,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "greyiconenabled" : false,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "gnometrayicontransparentenabled" : true,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "enabled" : true,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "startminimizedenabled" : false,>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
-echo   "trayonlyvisibleifwindowishiddenenabled" : false>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
+echo   "oncloseaction" : "EXIT">>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
 echo }>>App\JDownloader\cfg\org.jdownloader.gui.jdtrayicon.TrayExtension.json
 ping 127.0.0.1 -n 2 >nul
 
