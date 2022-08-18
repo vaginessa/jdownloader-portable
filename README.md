@@ -1,5 +1,11 @@
 # JDownloader Portable<a href="https://portableapps.com/"><img src="https://i.imgur.com/nBF4QPo.png" width="229" height="47" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
+### Adfree Installers: https://jdownloader.org/jdownloader2
+
+**MULTIOS JAR without Installer** `Rev 46316` - https://mega.nz/file/2EkgUSga#Pjau9db2bBDES-ih4iWYlHfwC0t-444eFfm0SQegqRA
+
+--------
+
 ## Download management tool
 
 JDownloader Portable is the JDownloader download management tool packaged with a PortableApps.com launcher as a [portable app](https://portableapps.com/about/what_is_a_portable_app), so you can download from any computer. It has all the same features as JDownloader, plus, it leaves no personal information behind on the machine you run it on, so you can take it with you wherever you go. [Learn more about JDownloader...](http://jdownloader.org/)
