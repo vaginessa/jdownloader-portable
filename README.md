@@ -1,6 +1,7 @@
 # JDownloader Portable<a href="https://portableapps.com/"><img src="https://i.imgur.com/nBF4QPo.png" width="229" height="47" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
-### Adfree Installers: https://jdownloader.org/jdownloader2
+### Adfree Installers: https://jdownloader.org/jdownloader2 - [Adware during install](https://portableapps.com/](https://support.jdownloader.org/Knowledgebase/Article/View/adware-during-installation))
+
 
 **MULTIOS JAR without Installer** `Rev 46316` - https://mega.nz/file/2EkgUSga#Pjau9db2bBDES-ih4iWYlHfwC0t-444eFfm0SQegqRA
 
